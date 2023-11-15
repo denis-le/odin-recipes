@@ -1,0 +1,15 @@
+.food {
+    font-size: 24px;
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: beige;
+}
+
+.title,
+.food {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
