@@ -3,13 +3,17 @@
     background-color: aliceblue;
 }
 
+.title,
+.food {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image {
+    text-align: center;
+}
+
 h1 {
     text-align: center;
     font-size: 48px;
     background-color: beige;
-}
-
-.title,
-.food {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
